@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006287855671",
+    "project_id": "tpfirebaseauthweb",
+    "storage_bucket": "tpfirebaseauthweb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006287855671:android:d9f9e266d938b590089fb2",
+        "android_client_info": {
+          "package_name": "com.example.tp_firebase_auth_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUNXpm0Ntm08CexSiOdfixptxFVgL6xwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
